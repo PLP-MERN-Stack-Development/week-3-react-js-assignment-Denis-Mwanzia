@@ -3,15 +3,6 @@
 
 A responsive and theme-enabled task manager built with **React.js**, **Tailwind CSS**, and **Vite**. It supports task creation, filtering, deletion, and fetching posts from a public API (JSONPlaceholder) with search and pagination features.
 
----
-
-## 🚀 Live Demo
-
-🌍 [View Deployed App](https://your-live-deployment-link.netlify.app)  
-_(replace this with your actual deployed URL)_
-
----
-
 ## 📸 Screenshots
 
 ### ✅ Task Manager
@@ -19,8 +10,6 @@ _(replace this with your actual deployed URL)_
 
 ### 🌐 API Data Viewer
 ![API Data](screenshots/api-data.png)
-
----
 
 ## 📦 Features
 
@@ -40,8 +29,6 @@ _(replace this with your actual deployed URL)_
 - Light/Dark theme toggle with persistence
 - Custom transitions and animations
 
----
-
 ## 🛠️ Setup Instructions
 
 ### ✅ Prerequisites
@@ -50,6 +37,7 @@ _(replace this with your actual deployed URL)_
 
 ### 🔧 Local Installation
 
+---
 ```bash
 # 1. Clone your GitHub Classroom repo
 git clone https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Denis-Mwanzia.git
@@ -61,3 +49,5 @@ npm install
 # 3. Start development server
 npm run dev
 
+```
+---
